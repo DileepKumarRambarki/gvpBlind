@@ -118,6 +118,12 @@ Register or log in using a valid college domain email to explore the community h
   - POST /posts: Create a new post.
   - GET /posts/:id/like-status/:usermail: Check like status for a specific post.
   - POST /posts/:id/like: Like or unlike a post.
+ 
+## 🚀 Deployment
+
+This project is deployed using **Render**.
+
+🔗 **Live App**: [Blinder](https://gvpblind-pi69.onrender.com/)
 
 
 ## 🚀 Deployment
