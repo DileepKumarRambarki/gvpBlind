@@ -125,13 +125,6 @@ This project is deployed using **Render**.
 
 🔗 **Live App**: [Blinder](https://gvpblind-pi69.onrender.com/)
 
-
-## 🚀 Deployment
-
-This project is deployed using **Render**.
-
-🔗 **Live App**: [Blinder](https://gvpblind-pi69.onrender.com/)
-
 ## Contributing
 Feel free to contribute by opening an issue or submitting a pull request.
 Fork the repository.
