@@ -119,9 +119,15 @@ Register or log in using a valid college domain email to explore the community h
   - GET /posts/:id/like-status/:usermail: Check like status for a specific post.
   - POST /posts/:id/like: Like or unlike a post.
 
+
+## 🚀 Deployment
+
+This project is deployed using **Render**.
+
+🔗 **Live App**: [Blinder](https://gvpblind-pi69.onrender.com/)
+
 ## Contributing
 Feel free to contribute by opening an issue or submitting a pull request.
-
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
 Make your changes and commit (git commit -m 'Add new feature').
